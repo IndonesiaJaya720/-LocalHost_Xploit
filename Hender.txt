@@ -1,0 +1,14 @@
+==================><==================
+Code Costom
+==================><==================
+0 = Buka Webisite Ini
+1 = top4top.io
+2 = Upload Lagu Ya Pengen
+3 = Salin Nama Link Ya
+4 = Contoh m_.......mp3
+5 = Tempelkan Ke Dalam Script Ini
+6 = Ketikan Seperti Ini
+7 = mpv Link Elu.mp3
+==================><==================
+Terima Kasih
+==================><==================
